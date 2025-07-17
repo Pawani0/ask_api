@@ -1,0 +1,7 @@
+edge_tts
+io
+asyncio
+urllib.parse
+fastapi
+pydantic
+uvicorn

@@ -1,0 +1,30 @@
+{
+  "hello.": "Hello, how can I help you?",
+  "thank you.": "You're welcome! If you have any more questions, feel free to ask.",
+  "hi.": "Hi there! How can I assist you today?",
+  "bye.": "Goodbye! Thanky you for using FinBot! Have a great day!",
+  "how are you?": "I'm doing great, thank you! How can I help you?",
+  "what can you do?": "I can assist you with financial queries, account information, loan applications, and more.",
+  "what is your name?": "I am FinBot, your voice assistant.",
+  "what services do you provide?": "We offer financial services like loans, investments, and insurance.",
+  "how can i contact support?": "You can contact support at support@fincove.com or call 1800-123-456.",
+
+  "how much money do i have in my savings account?": "Sure! To help you with that, may I know your account number or would you like to proceed using your registered mobile number for verification?",
+  "use my mobile number.": "Great. I have sent a verification code to your registered mobile number ending in 5682. Please tell me the code to continue.",
+  "what is my account balance?": "Your current savings account balance is ₹25,450. Is there anything else I can help you with?",
+
+  "i want to know the terms and interest rate for an education loan.": "Absolutely! Our education loans offer flexible repayment options with interest rates starting from 8.5% per annum. Would you like to know the eligibility criteria or proceed with applying?",
+  "tell me the eligibility criteria.": "To be eligible, you need to be an Indian citizen, have admission to a recognized institution, and a co-applicant with a steady income. Do you want me to schedule a callback from a loan advisor?",
+
+  "how is my mutual fund portfolio performing this month?": "Sure! I can help you with that. Please confirm your registered mobile number or customer ID to fetch your portfolio details.",
+  "my number is 9876543210.": "Thank you. After verification, here's your portfolio summary:\n\nEquity Mutual Funds: +₹5,200 this month\nSIP Contributions: ₹3,000 invested\nNPS Growth: +₹1,800 this month",
+
+  "i want to claim my health insurance.": "I am here to help you with that. Was your treatment done at one of our network hospitals or a non-network hospital?",
+  "it was a network hospital.": "Great. For a network hospital, you are eligible for cashless claims. Please share your policy number to proceed with verification.",
+  "here is my policy number.": "Thank you. Your claim request has been initiated. You will receive an update within 24 hours. Would you like a summary of the documents submitted?",
+
+  "i need to pay my gst for this quarter and get the receipt.": "Sure, I can assist you with that. Please provide your GSTIN to retrieve your tax details.",
+  "my gstin is 22abcde1234f1z5.": "Thank you. You have a pending GST payment of ₹18,500 for Q1 FY 2025. Would you like to proceed with online payment now?",
+  "yes, proceed with the payment.": "Great. I am redirecting you to the secure payment gateway. Once completed, I will generate your payment receipt automatically.",
+  "payment done.": "Your GST payment has been successfully processed. Here is your digital receipt  it has also been sent to your registered email. Do you need help with anything else?"
+}
